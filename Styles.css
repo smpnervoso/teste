@@ -1,0 +1,184 @@
+
+#head {
+    padding: 40px;
+    font: bold;
+
+}
+#navegar {
+  margin-bottom: 10px;
+  margin-left: 400px;
+}
+.sobre {
+    padding: 200px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(165.78deg, rgba(255, 252, 245, 0) 0%, rgba(255, 250, 240, 0.869792) 82.46%, #FFF4DB 98.95%);
+ 
+}
+#about {
+    text-decoration-color: #414142;
+    font-size: 50px;
+    margin-bottom: 1px;
+}
+#leaders {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 90px;
+    font-family: 'Inter bold 700', sans-serif;
+    text-decoration-color: lightgrey;
+}
+#david {
+    position: absolute;
+    margin-left: 380px;
+    margin-right: 380px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nome {
+    font-family: 'Inter bold 700', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    padding: 190px;
+}
+#nomedele {
+    font-family: 'Inter bold 800', sans-serif;
+    font-size: 40px;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    margin-left: 10px;
+    color: #141414;
+    
+}
+#funcaodele {
+    color: #414142;
+    font-size: 13px;
+    margin-top: 1px;
+    margin-left: 15px;
+}
+#sobreele {
+    font-family: 'Inter', sans-serif;
+    margin-left: 1px;
+    margin-right: 40px;
+    width: 600px;
+    font-size: 30px;
+    color: 
+rgba(65, 65, 66, 0.73)
+}
+#phone {
+    position: absolute;
+    padding-left: 350px;
+    padding-right: 400px;
+    margin-top: -180px;
+}
+#sms {
+    position: absolute;
+    padding-left: 550px;
+    padding-right: 400px;
+    margin-top: -180px;
+}
+#alternativo {
+    color: #414142;
+    margin-left: 14px;
+    font-size: 15px;
+}
+.espacovazio{
+    margin: 300px;
+}
+.rodape {
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+#services {
+    color: #414142;
+    margin-top: 55px;
+    margin-left: 100px;
+    margin-bottom: -20px;
+}
+#servicos {
+
+    color: rgba(65, 65, 66, 1);
+;
+    font-family: 'Inter', sans-serif;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: -20px;
+    font-size: 40px;
+}
+.vazio {
+    margin: 200px;
+}
+#sobreeles {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+#belive {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 60px;
+}
+#lideres {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+#localizacao {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+#contato {
+    color: rgba(65, 65, 66, 1)2;
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 40px;
+    margin-bottom: 120px;
+}
+#social {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-top: 30px;
+    margin-left: 93px;
+}
+#facebook {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-top: 60px;
+    margin-left: 93px;
+}
+#youtube {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-bottom: 150px;
+}
+#localizar {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    margin-left: 93px; 
+}
+#point {
+    color: rgba(65, 65, 66, 1);
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+#local {
+    color: rgba(65, 65, 66, 1);
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    padding: 20px;
+    padding-left: 155px;
+}
+.outrovazio {
+    margin: 200px;
+}
+#root {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
